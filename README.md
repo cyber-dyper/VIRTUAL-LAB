@@ -37,7 +37,7 @@ Pour créer ce labo virtuel, on utilise un logiciel de **virtualisation** tel qu
 
 Il te permet de faire tourner un **ordinateur virtuel (VM)** à l'intérieur de ton propre système d'exploitation (ordinateur).  
 
-💡 Si des termes comme **noyau**, **distribution**, **interface graphique** ou **gestionnaire de paquets** te semblent flous, je te conseille d'aller faire un tour sur le dépôt [GNU-LINUX](https://github.com/ton-compte/GNU-LINUX) pour en apprendre plus ! 😉
+💡 Si des termes comme **noyau**, **distribution**, **interface graphique** ou **gestionnaire de paquets** te semblent flous, je te conseille d'aller faire un tour sur le dépôt [GNU-LINUX](https://github.com/cyber-dyper/GNU-LINUX) pour en apprendre plus ! 😉
 
 
 ## 🔍 **Prérequis Logiciels**
@@ -67,7 +67,7 @@ Tu l'auras compris, si une version s'affiche, c'est tout bon !
 En fait, curl est déjà installé sur Windows et macOS. Si tu es sur Linux c'est wget.
 
 
-👉 Si tu veux en savoir plus sur comment les utiliser [WGET-CURL](https://github.com/ton-compte/WGET-CURL).
+👉 Si tu veux en savoir plus sur comment les utiliser [WGET-CURL](https://github.com/cyber-dyper/WGET-CURL).
 
 
 ## 🌐 Télécharger VirtualBox depuis le Navigateur
@@ -106,20 +106,20 @@ sudo apt install ./virtualbox-7.0.8.deb
    - Version : Ubuntu 64-bit
    - Alloue la RAM : 2 Go minimum
    - Crée un disque dur virtuel (VDI, 20 Go, dynamique).
-   - Monte l'image ISO que tu as téléchargé depuis le dépôt [GNU-LINUX](https://github.com/ton-compte/GNU-LINUX).
+   - Monte l'image ISO que tu as téléchargé depuis le dépôt [GNU-LINUX](https://github.com/cyber-dyper/GNU-LINUX).
 9. Démarre la VM et suis les instructions pour installer l'OS.
 
 ## 🧪 Expérimente avec ton labo virtuel !
 
 🎲 Maintenant que ta machine virtuelle est prête, il est temps de tester, expérimenter et apprendre !
 
-👉 Si tu veux en savoir plus sur les différentes distributions Linux, consulte le dépôt [GNU-LINUX](https://github.com/ton-compte/GNU-LINUX).
+👉 Si tu veux en savoir plus sur les différentes distributions Linux, consulte le dépôt [GNU-LINUX](https://github.com/cyber-dyper/GNU-LINUX).
 
 # 📚 Ressources Utiles
 
 - 🌍 [VirtualBox - Télécharger](https://www.virtualbox.org/wiki/Downloads)  
 - 🍺 [Homebrew - Le Gestionnaire de paquets (macOS)](https://brew.sh)  
-- 📁 [GNU-LINUX - Détails sur les distributions](https://github.com/ton-compte/GNU-LINUX)  
+- 📁 [GNU-LINUX - Détails sur les distributions](https://github.com/cyber-dyper/GNU-LINUX)  
 
 ___
 ✨ Bonne virtualisation et bon apprentissage ! 🚀😊
