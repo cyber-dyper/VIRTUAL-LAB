@@ -37,7 +37,7 @@ Pour créer ce labo virtuel, on utilise un logiciel de **virtualisation** tel qu
 
 Il te permet de faire tourner un **ordinateur virtuel (VM)** à l'intérieur de ton propre système d'exploitation (ordinateur).  
 
-> 💡 Si des termes comme **noyau**, **distribution**, **interface graphique** ou **gestionnaire de paquets** te semblent flous, je te conseille d'aller faire un tour sur le dépôt [GNU-LINUX](https://github.com/ton-compte/GNU-LINUX) pour en apprendre plus ! 😉
+💡 Si des termes comme **noyau**, **distribution**, **interface graphique** ou **gestionnaire de paquets** te semblent flous, je te conseille d'aller faire un tour sur le dépôt [GNU-LINUX](https://github.com/ton-compte/GNU-LINUX) pour en apprendre plus ! 😉
 
 
 ## 🔍 **Prérequis Logiciels**
@@ -61,14 +61,13 @@ ou
 ```bash
 curl --version
 ```
-Curl est généralement déjà installé sur Windows et macOS. 
 
-Pour Linux c'est wget qui domine.
+Tu l'auras compris, si une version s'affiche, c'est tout bon ! 
 
-Si une version s'affiche, c'est tout bon ! 
+En fait, curl est déjà installé sur Windows et macOS. Si tu es sur Linux c'est wget.
 
-Si tu veux en savoir plus et comprendre comment les utiliser, je te conseille d'aller voir mon autre dépôt [WGET-CURL](https://github.com/ton-compte/WGET-CURL).
 
+👉 Si tu veux en savoir plus sur comment les utiliser [WGET-CURL](https://github.com/ton-compte/WGET-CURL).
 
 
 ## 🌐 Télécharger VirtualBox depuis le Navigateur
